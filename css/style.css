@@ -19,21 +19,28 @@ header {
 ul{
    list-style: none;
    padding: 0 20% 0 20%;
+   font-size: larger;
    
 }
 
 .nav-color .logo, ul, .login{
     height: 100%;
     width: 100%;
+   
     
 
 }
 
 .login{
     text-align: end;
-   
+    padding: 0.5rem 0.5rem 0.5rem 0;
+    font-size: larger;
 }
 
+.logo{
+    padding: 0.5rem 0 0.5rem 0.5rem;
+    font-size: larger;
+}
 
 
 li{
@@ -50,8 +57,12 @@ li{
 .nav-color{
     background-color:rgb(218, 165, 32);
     height: 70%;
+    width: 70%;
+    align-items: end;
     
-   }
+}
+
+
    
 
 
