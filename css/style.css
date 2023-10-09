@@ -20,21 +20,26 @@ header {
 
 
 header>section{
-    height: 60%;
+   
     background-color: rgb(218, 165, 32);
-    width: 60%;
+   
    
    
     
 
 }
 
+
+.posizionamento{
+     width: 60%;
+     height: 60%;
+}
+
+
 .second-box{
     height: 529px;
     background-color: rgb(0, 0, 139);
 }
-
-
 
 
 .second-box div{
@@ -44,9 +49,19 @@ header>section{
 
 }
 
-.third-box{
+.terzo-box{
     background-color: rgb(255, 255, 255);
-    height: 400px;
+    height: 625px;
 }
 
+.posizionamento .box-azzurro{
+    width: 80%;
+    height: 300px;
+    background-color: rgb(0, 210, 218);
+}
 
+.box-rosa{
+    height: 300px;
+    width: 60%;
+    background-color: pink;
+}
